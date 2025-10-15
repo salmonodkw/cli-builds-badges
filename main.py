@@ -82,3 +82,5 @@ require (
 # PR Merge: 2025-10-16 - docs/merge-5297
 
 # PR Merge: 2025-10-16 - docs/merge-1592
+
+# PR Merge: 2025-10-16 - fix/merge-9027
